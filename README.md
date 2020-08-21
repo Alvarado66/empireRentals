@@ -20,4 +20,5 @@
   After consulting with a more experienced developer, we found out we were close and 
   recommended we look into 'Seqeulize.'
   
- 
+  #View Screen Shots Here!
+    https://drive.google.com/drive/folders/1CLL79Fg36JEB23HRNPD_rABtiCPOnuOO
